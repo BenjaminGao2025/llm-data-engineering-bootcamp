@@ -1,3 +1,9 @@
+# Exclude course documents and other notebooks
+coursedoc/
+Pyspark_Fundamentals_2.ipynb
+Python_Fundamentals_for_AI*.ipynb
+.venv/
+
 # Sample data files
 *.csv
 sample_data.csv
